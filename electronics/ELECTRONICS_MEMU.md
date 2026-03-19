@@ -50,4 +50,6 @@ The core utilizes a specialized "cold-start" harvester IC capable of extracting 
 *   **Scalability:** The low component count allows for a unit cost < $2.00 at high-volume production (OEM scale).
 
 ---
+[← Back to Overview (README)](../README.md)
+---
 *Note: This specification is part of the non-profit Project-ORECO and licensed under CC BY-NC-SA 4.0.*
