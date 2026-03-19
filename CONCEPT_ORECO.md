@@ -57,6 +57,6 @@ The choice of the **100g actuator sphere** is a calculated equilibrium between s
 
 *Note: For universal OEM application, the 100g configuration serves as the balanced "Golden Mean" for mixed-use vehicle profiles.*
 ---
-[← Back to Overview (README)](../README.md)
+[← Back to Overview (README)](./README.md)
 ---
 *Note: This concept is non-profit and open-source, licensed under CC BY-NC-SA 4.0.*
