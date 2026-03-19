@@ -104,16 +104,15 @@ ORECO is designed as a **drop-in replacement** for standard cooling circuit conn
 - Failsafe: If core seizes, diffuser geometry maintains minimum pressure drop – primary cooling never compromised
 
 ---
-## 🛡️ Multi-Model Audit Trajectory (V2.5)
+## 🛡️ Multi-Model Audit Trajectory (v1.5)
 
-| Round | Model | Contribution |
-| :--- | :--- | :--- |
-| **R1** | DeepSeek-R1 | Thermodynamic leak identification → Exponential Cone Topology enforced |
-| **R2** | Qwen-3.5 Pro | Hybrid-synergy validation → MXene-Graphene encapsulation mandated |
-| **R3** | Claude Sonnet 4.6 | Logic gap identification → ZMQ-Decimation, Async-Solver (V2.3) |
-| **R4** | Claude Sonnet 4.6 | $\eta_{\text{base}}$ hardening → First-principles derivation, three-vector model (V2.5) |
-| **R5** | ChatGPT-4o | Architectural symmetry validation → Logical clearance confirmed |
-
+| Runde | Modell | Rolle | Hauptbeitrag |
+| :--- | :--- | :--- | :--- |
+| **R1** | **Gemini 1.5 Pro** | **Architekt** | Theorie der inversen Kinematik, Dual-Shell-Design & Thermische Synergie (15 % Steigerung). |
+| **R2** | **Claude 3.5 Sonnet** | **Validator** | Erkannte Risiken beim Anlaufdrehmoment; forderte Gimbal/GAA & 3° Magnetische Neigung. |
+| **R3** | **DeepSeek-R1** | **Auditor** | Dynamik-Audit: Massen-Impuls-Matrix (80g–130g); Zentrifugalstabilität vs. Anlauf-Trade-offs. |
+| **R4** | **Claude 3.5 Sonnet** | **Integration** | Stationarität vs. interne Präzession; validierte Ringspaltlager-Logik & Dual-Shell-Abstand. |
+| **R5** | **DeepSeek-R1** | **Hardening** | Zuverlässigkeit in Extremfällen (-40 °C Viskosität, 5 g Schock) & MEMU BOM/LTC3108 Validierung. |
 ---
 ## Validation Status
 
