@@ -34,6 +34,7 @@ To ensure a service life of 15+ years, ORECO is hardened against extreme conditi
 ## 5. Compliance & Safety
 *   **EMI/EMC:** Integrated Mu-Metal shielding exceeds automotive standards.
 *   **Lifetime:** Designed for 1,000,000+ km (Ceramic/Stainless Steel/Inert Gas).
-
+---
+[← Back to Overview (README)](./README.md)
 ---
 *Status: Open Source Concept for Non-Profit Innovation. Ready for CFD Validation.*
