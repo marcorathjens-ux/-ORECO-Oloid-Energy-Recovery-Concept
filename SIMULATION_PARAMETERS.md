@@ -34,3 +34,5 @@ To validate the passive cooling boost (~15%) and the torque generation, the foll
 1.  **Self-Starting:** Verification of torque generation at $v = 1.0 \, \text{m/s}$ with $3^\circ$ tilt.
 2.  **Thermal Inversion:** Visualization of the "stretching and folding" of fluid filaments (Inversive Kinematics).
 3.  **Efficiency:** Ratio of extracted electrical power to hydraulic head loss.
+---
+[← Back to Overview (README)](./README.md)
