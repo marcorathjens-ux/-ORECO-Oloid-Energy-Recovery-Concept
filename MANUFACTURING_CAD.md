@@ -24,3 +24,5 @@ Bearing Tolerance: < 0.1mm at polar pivot points to minimize mechanical noise an
 4. Prototyping Strategy (3D Printing)
 Method: SLS (Selective Laser Sintering) for structural integrity or SLA for smooth internal surfaces.
 Material: PA12 (Nylon) or high-temp resins, epoxy-coated for liquid-tight sealing.
+---
+[← Back to Overview (README)](./README.md)
