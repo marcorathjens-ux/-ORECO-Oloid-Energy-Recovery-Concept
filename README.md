@@ -131,16 +131,17 @@ ORECO is designed as a **drop-in replacement** for standard cooling circuit conn
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
+
 
 | File | Content |
 | :--- | :--- |
-| `CONCEPT_ORECO.md` | Full system concept, architecture, benchmarks |
-| `GEOMETRY_OLOID.md` | Mathematical construction, parametric equations, CAD specs |
-| `MANUFACTURING_CAD.md` | Dimensional constraints, 3-layer design, prototyping strategy |
-| `ELECTRONICS_MEMU.md` | Power conditioning circuit, BOM, EMI strategy |
-| `OEM_INTEGRATION.md` | Integration guide, value proposition, compliance |
-| `SIMULATION_PARAMETERS.md` | CFD & electromagnetic validation setup (v1.4) |
+| 📄 **[CONCEPT_ORECO.md](./CONCEPT_ORECO.md)** | Full system concept, architecture, benchmarks |
+| 📄 **[GEOMETRY_OLOID.md](./docs/GEOMETRY_OLOID.md)** | Mathematical construction, parametric equations, CAD specs |
+| 📄 **[MANUFACTURING_CAD.md](./MANUFACTURING_CAD.md)** | Dimensional constraints, 3-layer design, prototyping strategy |
+| 📄 **[ELECTRONICS_MEMU.md](./electronics/ELECTRONICS_MEMU.md)** | Power conditioning circuit, BOM, EMI strategy |
+| 📄 **[OEM_INTEGRATION.md](./OEM_INTEGRATION.md)** | Integration guide, value proposition, compliance |
+| 📄 **[SIMULATION_PARAMETERS.md](./SIMULATION_PARAMETERS.md)** | CFD & electromagnetic validation setup (v1.4) |
 
 ---
 
