@@ -34,3 +34,4 @@ The internal capsule wall must maintain a constant clearance $c$ to the magnetic
 *   **Ball Diameter ($D_{ball}$):** $0.7 \cdot (2R - 2t_{wall})$.
 
 ---
+[← Back to Overview (README)](../README.md)
